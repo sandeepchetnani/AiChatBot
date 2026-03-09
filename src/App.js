@@ -33,7 +33,7 @@ function App() {
   return (
     <div className="App">
       <div className="chat-container">
-        <h1>AI Chat</h1>
+        <h1>Multi LLM Model for HealthCare</h1>
         
         <div className="model-selector">
           <label htmlFor="model">Model: </label>
